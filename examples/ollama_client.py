@@ -4,7 +4,7 @@ import json
 
 # --- Configuration ---
 # Your FreeCADMCP server's address
-MCP_SERVER_URL = "http://localhost:8000" 
+MCP_SERVER_URL = "http://localhost:9875" 
 
 # The Ollama model you are using
 OLLAMA_MODEL = "llama3" # Or "phi3", "mistral", etc.
